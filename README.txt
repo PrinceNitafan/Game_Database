@@ -1,10 +1,8 @@
-CMPT 125 Assignment 5
-=====================
 
 Names of Team Members
 ---------------------
 Name: Prince Emmanuel Nitafan
-Email: pen@sfu.ca
+Email: pnitafan2020@gmail.com
 
 Limitations
 -----------
