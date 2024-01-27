@@ -1,7 +1,7 @@
 
 Names of Team Members
 ---------------------
-Name: Prince Emmanuel Nitafan
+Name: Prince Nitafan
 Email: pnitafan2020@gmail.com
 
 Limitations
